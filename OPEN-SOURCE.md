@@ -1,4 +1,4 @@
-**Is Swiftgram really open-source?**
+# Is Swiftgram really open-source?
 
 Yes — the entire Swiftgram codebase is open-source, including the Pro features. You can check it out at [source.swiftgram.app](https://source.swiftgram.app).  
 

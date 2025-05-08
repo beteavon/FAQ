@@ -1,4 +1,4 @@
-**Is Swiftgram available on Apple Watch?**
+# Is Swiftgram available on Apple Watch?
 
 Yes, a Classic Watch Companion is available in Swiftgram. It offers basic support for Apple Watch, including:
 

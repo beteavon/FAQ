@@ -1,4 +1,4 @@
-**How does Session Backup work?**
+# How does Session Backup work?
 
 Swiftgram lets you back up your sessions to the encrypted Apple Keychain — which stays intact even if you reinstall the app or restore your OS from an encrypted backup.  
 
